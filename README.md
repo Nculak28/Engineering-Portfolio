@@ -7,7 +7,8 @@ Welcome! This portfolio showcases my UAV, mechanical design, rover, and aircraft
 ## UAV Project
 - **[Speedfest UAV Prop Plane Project]** – Designed, built, and flew a custom Pylon Racing UAV.  
  
-  Link to UAV folder - [UAV Project](./UAV)
+  Link to UAV folder - [UAV Project](./UAV) and website - www.speedfesthaze.com
+  
   
 
 ## Mechanical Design Projects
