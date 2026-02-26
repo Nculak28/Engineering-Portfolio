@@ -5,28 +5,24 @@ Welcome! This portfolio showcases my UAV, mechanical design, rover, and aircraft
 ---
 
 ## UAV Project
-- **[Speedfest UAV Prop Plane Project]** – Designed, built, and flew a custom Pylon Racing UAV.  
+- **[Speedfest UAV Prop Plane Project]** – Designed, built, and flew a custom Pylon Racing Airplane.  
  
   Link to UAV folder - [UAV Project](./UAV) and website - www.speedfesthaze.com
   
-  
-
 ## Mechanical Design Projects
-- **[Crankshaft to Wave Motion Assembly](link-to-mech-repo-or-folder)** – Modeled and simulated a mechanical gearbox in SolidWorks.  
-  ![Mechanical Design](images/mech_image.png)
+- **[Crankshaft to Wave Motion Assembly]** – Designed assembly in SolidWorks, led 8 man team to manufacture.  
+Link to Crankshaft/Wave folder - 
   
-- **[Crankshaft to Fanning Motion Assembly](link-to-mech-repo-or-folder)** – Modeled and simulated a mechanical gearbox in SolidWorks.  
-  ![Mechanical Design](images/mech_image.png)
+- **[Crankshaft to Fanning Motion Assembly]** – Designed assembly in SolidWorks, led 8 man team to manufacture.  
+Link to Crankshaft/Fan folder - 
 
-  - **[Pneumatics & Arduino Driven Assembly](link-to-mech-repo-or-folder)** – Modeled and simulated a mechanical gearbox in SolidWorks.  
-  ![Mechanical Design](images/mech_image.png)
+- **[Pneumatics & Arduino Driven Assembly]** – 
+
 ## Rover Project
-- **[Mars Rover Prototype](link-to-rover-repo-or-folder)** – Built a sensor-equipped rover with motor control.  
-  ![Rover Image](images/rover_image.png)
+- **[Mars Rover Prototype]**  – Built a sensor-equipped rover with motor control.  
 
 ## Aircraft Design Project
-- **[Milutary Aircraft Bomber Project](link-to-aircraft-repo-or-folder)** – Analyzed aerodynamic performance and stability.  
-  ![Aircraft Image](images/aircraft_image.png)
+- **[Milutary Aircraft Bomber Project]** – 
 
 ---
 
