@@ -7,6 +7,8 @@ Welcome! This portfolio showcases my UAV, mechanical design, rover, and aircraft
 ## UAV Project
 - **[Speedfest UAV Prop](link-to-UAV-repo-or-folder)** – Designed a UAV, performed flight testing, and analyzed performance.  
   ![UAV Image](images/uav_image.png)
+  [UAV Project](./UAV)
+  
 
 ## Mechanical Design Projects
 - **[Crankshaft to Wave Motion Assembly](link-to-mech-repo-or-folder)** – Modeled and simulated a mechanical gearbox in SolidWorks.  
