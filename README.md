@@ -10,7 +10,7 @@ Welcome! This portfolio showcases my UAV, mechanical design, rover, and aircraft
   Link to UAV folder - [UAV Project](./UAV) and website - www.speedfesthaze.com
   
 ## Mechanical Design Projects
-- **[Crankshaft to Wave Motion Assembly]** – Designed assembly in SolidWorks to nake crankshaft move letters in a wave pattern, led 8 man team to manufacture.  
+- **[Crankshaft to Wave Motion Assembly]** – Designed assembly in SolidWorks to make crankshaft move letters in a wave pattern, led 8 man team to manufacture.  
 Link to Crankshaft/Wave folder - [Crankshaft to Wave Motion Project](./CrankWave)
   
 - **[Crankshaft to Fanning Motion Assembly]** – Designed assembly in SolidWorks to make crankshaft fan metal cards, led 7 man team to manufacture.  
@@ -30,5 +30,5 @@ Link to C5 Successor folder -
 ---
 
 ## Contact
-- Email: your.email@example.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Email: nathanaelculak@gmail.com
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/NCulak)
