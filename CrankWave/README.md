@@ -37,7 +37,7 @@ This project I led in 2022, it involved designing and constructing a large-scale
 
 ## Files & Downloads
 - [CAD Design Files](heroes_panel_cad/) – Full SOLIDWORKS CAD files for the project.  
-- [Project Images](images/) – Directory containing project photos and renders.  
+- [Project Images](heroes_panel_media/) – Directory containing project photos and renders.  
 
 ## Outcome
 The project successfully brought the **“HEROES”** panel to life, combining **engineering precision, mechanical ingenuity, and large-scale fabrication**. The final product became a centerpiece of the Oklahoma State University homecoming tradition, demonstrating both technical skill and team leadership.
