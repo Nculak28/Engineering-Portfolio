@@ -1,5 +1,5 @@
 UAV/README.md
-# UAV Project
+# UAV Pylon Racer Project
 
 ## Overview
 Haze is a high-performance pylon racing UAV designed and manufactured by a 16-member senior aerospace engineering team for the Speedfest XIV competition (I was apart of the Structures team) . The aircraft was built to compete in:
@@ -176,7 +176,7 @@ Cross-team coordination ensured proper CG management, packaging efficiency, and 
 - Delivered complete multidisciplinary aircraft design and manufacturing solution
 
 ## Project files
-[UAV Pylon Racer.](Speedfest_Media/) 
+[UAV Pylon Racer](Speedfest_Media/) 
 
 
 
