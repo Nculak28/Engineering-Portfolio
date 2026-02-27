@@ -10,13 +10,13 @@ Welcome! This portfolio showcases my UAV, mechanical design, rover, and aircraft
   Link to UAV folder - [UAV Project](./UAV) and website - www.speedfesthaze.com
   
 ## Mechanical Design Projects
-- **[Crankshaft to Wave Motion Assembly]** – Designed assembly to nake crankshaft move letters in a wave pattern, led 8 man team to manufacture.  
+- **[Crankshaft to Wave Motion Assembly]** – Designed assembly in SolidWorks to nake crankshaft move letters in a wave pattern, led 8 man team to manufacture.  
 Link to Crankshaft/Wave folder - 
   
-- **[Crankshaft to Fanning Motion Assembly]** – Designed assembly to make crankshaft fan metal cards, led 7 man team to manufacture.  
+- **[Crankshaft to Fanning Motion Assembly]** – Designed assembly in SolidWorks to make crankshaft fan metal cards, led 7 man team to manufacture.  
 Link to Crankshaft/Fan folder - 
 
-- **[Pneumatics & Arduino Driven Assembly]** – Coded pneumatic cylinders to open doors & move crane, led team of 11.
+- **[Pneumatics & Arduino Driven Assembly]** – Designed assembly in SolidWorks, Coded pneumatic cylinders to open doors & move crane with Arduino uno kits, led team of 11.
 Link to Pneumatics folder - 
 
 ## Rover Project
@@ -24,7 +24,7 @@ Link to Pneumatics folder -
 Link to Rover folder - 
 
 ## Aircraft Design Project
-- **[Milutary Aircraft Bomber Project]** – Worked with 12 others on a theoretical C- 5 Galaxy successor. I did the CAD
+- **[Milutary Aircraft Bomber Project]** – Worked with 12 others on a theoretical C- 5 Galaxy successor. I was tasked with the CAD for the project.
 Link to C5 Successor folder - 
 
 ---
