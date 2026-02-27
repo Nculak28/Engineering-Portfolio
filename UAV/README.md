@@ -10,3 +10,5 @@ Designed and analyzed a UAV platform including structural and aerodynamic consid
 - SolidWorks
 - MATLAB
 - Flight testing
+
+## Project Files (limited due to new PC) 
