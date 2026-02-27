@@ -176,7 +176,7 @@ Cross-team coordination ensured proper CG management, packaging efficiency, and 
 - Delivered complete multidisciplinary aircraft design and manufacturing solution
 
 ## Project files
-[UAV Pylon Racer](Speedfest_Media/) 
+[UAV Pylon Racer.](Speedfest_Media/) 
 
 
 
