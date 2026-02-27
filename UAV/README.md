@@ -176,18 +176,7 @@ Cross-team coordination ensured proper CG management, packaging efficiency, and 
 - Delivered complete multidisciplinary aircraft design and manufacturing solution
 
 ## Project files
-<img width="1658" height="738" alt="UAV CAD image 1" src="https://github.com/user-attachments/assets/26e9290e-0603-4b22-9930-cc74d961969d" />
-<img width="2013" height="684" alt="UAV CAD image 2" src="https://github.com/user-attachments/assets/2545e73f-d817-4dc1-a679-492ab9d62f73" />
-<img width="643" height="302" alt="UAV CAD expanded image" src="https://github.com/user-attachments/assets/999aab9a-bd5b-41c9-9ce5-0d1a58106d6a" />
-<img width="626" height="355" alt="UAV Cowling aerodynamics" src="https://github.com/user-attachments/assets/39e477ef-b767-4cad-8e07-23b1384a99be" />
-
-<img width="1661" height="500" alt="UAV fuel and oil tank layout" src="https://github.com/user-attachments/assets/6ffc3069-6b66-4714-82e6-ba73797ef894" />
-
-<img width="688" height="431" alt="UAV mold" src="https://github.com/user-attachments/assets/21becee9-4bf4-40a4-933d-fcd2b338265f" />
-
-<img width="1210" height="451" alt="UAV molding process" src="https://github.com/user-attachments/assets/090422dc-6534-4c91-ab90-9e9562257982" />
-
-https://github.com/user-attachments/assets/e27d16d4-87a2-468e-ae64-fdea5037742c
+[UAV Pylon Racer](Speedfest_Media/) 
 
 
 
