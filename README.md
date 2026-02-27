@@ -6,13 +6,11 @@ Welcome! This portfolio showcases my UAV, mechanical design, rover, and aircraft
 
 ## UAV Project
 - **[Speedfest UAV Prop Plane Project]** – Senior Structures Engineer on a 16-person team designing and building a high-performance aerobatic UAV for Speedfest XIV. Led structural design and spar optimization for a 7.5 lb, 126 mph aircraft capable of 16 G maneuvers.
-- 
-  Link to UAV folder - [UAV Project](./UAV) and website - www.speedfesthaze.com
+- Link to UAV folder - [UAV Project](./UAV) and website - www.speedfesthaze.com
   
 ## Mechanical Design Projects
 - **[Crankshaft to Wave Motion Assembly]** –  Designed and led construction of a large-scale mechanical display where oversized letters move in a wave motion, powered by a custom crankshaft mechanism.
-
-Link to Crankshaft/Wave folder - [Crankshaft to Wave Motion Project](./CrankWave)
+- Link to Crankshaft/Wave folder - [Crankshaft to Wave Motion Project](./CrankWave)
   
 - **[Crankshaft to Fanning Motion Assembly]** – Designed assembly in SolidWorks to make crankshaft fan metal cards, led 7 man team to manufacture.  
 Link to Crankshaft/Fan folder - 
