@@ -36,7 +36,7 @@ This project I led in 2022, it involved designing and constructing a large-scale
 - **Fasteners** – screws, bolts, and various mounting hardware
 
 ## Files & Downloads
-- [CAD Design Files (ZIP)](files/heroes_panel_cad.zip) – Full SOLIDWORKS CAD files for the project.  
+- [CAD Design Files (ZIP)](files/heroes_panel_cad) – Full SOLIDWORKS CAD files for the project.  
 - [Project Images](images/) – Directory containing project photos and renders.  
 
 ## Outcome
