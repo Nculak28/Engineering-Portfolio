@@ -16,7 +16,7 @@ Welcome! This portfolio showcases my UAV, mechanical design, rover, and aircraft
 - Link to Crankshaft/Fanning Cards folder - [Crankshaft Kinetic Display System](./CrankFan) 
 
 - **[Multi Actuator Pneumatic & Electrical Systems Mechanism]** - Designed and led the implementation of a multi-actuator pneumatic system featuring synchronized 90° steel doors and a rotating crane mechanism, controlled via Arduino-based logic. Responsible for full SolidWorks modeling, structural layout, pneumatic integration, and control system development within an 11-member engineering team.
-Link to Pneumatics folder - 
+- Link to Pneumatic/Electrical System folder - [Pneumatic System](./Pneumatics) 
 
 ## Rover Project
 - **[Rover Prototype]**  – Designed a custom rover, manufactured in chop shop, competed against others.
