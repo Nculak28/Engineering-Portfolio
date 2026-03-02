@@ -85,7 +85,7 @@ This project required coordination between mechanical design, structural fabrica
 ---
 
 ## Media
-
+[Crankshaft-Fanning cards media/CAD](./CrankFan_Media_CAD) 
 
 ---
 
