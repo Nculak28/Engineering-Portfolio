@@ -4,7 +4,7 @@ CrankFan./README.md
 ## Overview
 This project involved the complete design and fabrication of a custom crankshaft-driven mechanical system that synchronized three large steel-backed cards in a controlled fanning motion. The system converted continuous rotary motion from an AC motor into coordinated oscillatory movement.
 
-I served as the lead mechanical designer and project manager for a six-person team, overseeing concept development, CAD modeling, procurement, fabrication, and final assembly.
+I served as the lead mechanical designer and project manager for a six-person team (2023) , overseeing concept development, CAD modeling, procurement, fabrication, and final assembly.
 
 ---
 
