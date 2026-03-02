@@ -118,4 +118,4 @@ The result was a fully automated, repeatable mechanical motion sequence integrat
 - Technical Leadership
 
   ##  Media
-  [Pneumatic System Media/CAD](./Pneumatics_Media_CAD) 
+- Youtube Links:https://youtube.com/shorts/4HmOGd1Nikk?feature=share
