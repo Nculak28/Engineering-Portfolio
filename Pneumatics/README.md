@@ -119,6 +119,6 @@ The result was a fully automated, repeatable mechanical motion sequence integrat
 
   ##  Media
 - Youtube Links
-- :https://youtube.com/shorts/4HmOGd1Nikk?feature=share
+- https://youtube.com/shorts/4HmOGd1Nikk?feature=share
 - https://youtu.be/F_lRd7CoqfI
 - https://youtube.com/shorts/-wYL7OPoGE0?feature=share
