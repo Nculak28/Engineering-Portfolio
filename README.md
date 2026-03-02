@@ -15,7 +15,7 @@ Welcome! This portfolio showcases my UAV, mechanical design, rover, and aircraft
 - **[Custom Crankshaft Kinetic Display Mechanism]** – Engineered a fully custom crankshaft assembly in SolidWorks to drive three large steel cards in a synchronized fanning motion. Led a six-person team through design, procurement, and fabrication.
 - Link to Crankshaft/Fanning Cards folder - [Crankshaft Kinetic Display System](./CrankFan) 
 
-- **[Pneumatics & Arduino Driven Assembly]** – Designed assembly in SolidWorks, Coded pneumatic cylinders to open doors & move crane with Arduino uno kits, led team of 11.
+- **[Multi Actuator Pneumatic & Electrical Systems Mechanism]** - Designed and led the implementation of a multi-actuator pneumatic system featuring synchronized 90° steel doors and a rotating crane mechanism, controlled via Arduino-based logic. Responsible for full SolidWorks modeling, structural layout, pneumatic integration, and control system development within an 11-member engineering team.
 Link to Pneumatics folder - 
 
 ## Rover Project
