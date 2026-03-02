@@ -10,10 +10,10 @@ Welcome! This portfolio showcases my UAV, mechanical design, rover, and aircraft
   
 ## Mechanical Design Projects
 - **[Crankshaft to Wave Motion Assembly]** –  Designed and led construction of a large-scale mechanical display where oversized letters move in a wave motion, powered by a custom crankshaft mechanism.
-- Link to Crankshaft/Wave folder - [Crankshaft to Wave Motion Project](./CrankWave)
+- Link to Crankshaft/Wave Motiom folder - [Crankshaft to Wave Motion Project](./CrankWave)
   
-- **[Crankshaft to Fanning Motion Assembly]** – Designed assembly in SolidWorks to make crankshaft fan metal cards, led 7 man team to manufacture.  
-Link to Crankshaft/Fan folder - 
+- **[Custom Crankshaft Kinetic Display Mechanism]** – Engineered a fully custom crankshaft assembly in SolidWorks to drive three large steel cards in a synchronized fanning motion. Led a six-person team through design, procurement, and fabrication.
+Link to Crankshaft/Fanning Cards folder - 
 
 - **[Pneumatics & Arduino Driven Assembly]** – Designed assembly in SolidWorks, Coded pneumatic cylinders to open doors & move crane with Arduino uno kits, led team of 11.
 Link to Pneumatics folder - 
