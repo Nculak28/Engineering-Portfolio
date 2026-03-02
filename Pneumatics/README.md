@@ -1,9 +1,9 @@
 Pneumatics./README.md
 # Pneumatics Project
 
-# 🔧 Synchronized Pneumatic Door & Crane System
+# Synchronized Pneumatic Door & Crane System
 
-## 📌 Project Overview
+## Project Overview
 
 This project involved the design and implementation of a synchronized mechanical system consisting of two large welded steel doors and a rotating crane mechanism positioned between them. The system executes a fully automated repeating sequence controlled by an Arduino-based pneumatic control architecture.
 
@@ -17,7 +17,7 @@ This project involved the design and implementation of a synchronized mechanical
 
 ---
 
-## 👤 My Role
+## My Role
 
 - **Project Team Lead (11-person team)**
 - Lead Mechanical Designer  
@@ -29,7 +29,7 @@ I designed the full system in SolidWorks prior to fabrication and led implementa
 
 ---
 
-## 🏗 Mechanical Design & Fabrication
+## Mechanical Design & Fabrication
 
 ### Doors
 - Fabricated from welded angle iron  
@@ -52,7 +52,7 @@ I designed the full system in SolidWorks prior to fabrication and led implementa
 
 ---
 
-## 💨 Pneumatic System
+## Pneumatic System
 
 - Three total 5-inch stroke pneumatic cylinders  
   - 2 for synchronized door actuation  
@@ -70,7 +70,7 @@ I designed the full system in SolidWorks prior to fabrication and led implementa
 
 ---
 
-## ⚙️ Controls & Automation
+## Controls & Automation
 
 The system was controlled using an Arduino-based control box.
 
@@ -86,7 +86,7 @@ The result was a fully automated, repeatable mechanical motion sequence integrat
 
 ---
 
-## 🧠 Engineering Challenges Solved
+## Engineering Challenges Solved
 
 - Synchronizing dual pneumatic cylinders  
 - Preventing mechanical binding in rotating crane  
@@ -96,7 +96,7 @@ The result was a fully automated, repeatable mechanical motion sequence integrat
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - SolidWorks (Full System CAD Modeling)  
 - Arduino (Control System Programming)  
@@ -107,7 +107,7 @@ The result was a fully automated, repeatable mechanical motion sequence integrat
 
 ---
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 - Mechanical System Design  
 - Pneumatic Integration  
@@ -118,4 +118,7 @@ The result was a fully automated, repeatable mechanical motion sequence integrat
 - Technical Leadership
 
   ##  Media
-- Youtube Links:https://youtube.com/shorts/4HmOGd1Nikk?feature=share
+- Youtube Links
+- :https://youtube.com/shorts/4HmOGd1Nikk?feature=share
+- https://youtu.be/F_lRd7CoqfI
+- https://youtube.com/shorts/-wYL7OPoGE0?feature=share
