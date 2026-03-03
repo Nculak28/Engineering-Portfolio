@@ -1,6 +1,10 @@
 # Nathan Culak – Engineering Portfolio
 
-Welcome! This portfolio showcases my UAV, mechanical design, rover, and aircraft projects.
+Welcome to my engineering portfolio.
+
+I specialize in aerospace and mechanical system design, with an emphasis on large-scale structural modeling, aircraft conceptual development, and dynamic mechanical systems. The projects featured here represent semester-long design efforts, full aircraft CAD builds, structural load analysis, and synchronized mechanical systems developed from first principles.
+
+My work reflects a strong foundation in aerodynamics, structural mechanics, and performance analysis — combined with the ability to independently model and assemble complex, high-fidelity CAD systems.
 
 ---
 
