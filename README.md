@@ -23,8 +23,10 @@ Welcome! This portfolio showcases my UAV, mechanical design, rover, and aircraft
 - Link to Rover folder - [Rover Robot](./Rover) 
 
 ## Aircraft Design Project
-- **[Milutary Aircraft Bomber Project]** – Worked with 12 others on a theoretical C- 5 Galaxy successor. I was tasked with the CAD for the project.
-Link to C5 Successor folder - 
+- **[AEX1 "Avalanche Express"- Strategic Bomber Concept]** – Semester-long aerospace design project to develop a next-generation heavy strategic bomber inspired by the C-5 Galaxy and structurally modeled from the Airbus A380 platform.
+
+As the sole CAD engineer on the team, I developed the complete aircraft 3D model while contributing to a 100+ page systems and performance report covering aerodynamics, structures, payload capability, and mission analysis.
+- Link to C5 Successor folder - 
 
 ---
 
