@@ -13,20 +13,20 @@ Welcome! This portfolio showcases my UAV, mechanical design, rover, and aircraft
 - Link to Crankshaft/Wave Motiom folder - [Crankshaft to Wave Motion Project](./CrankWave)
   
 - **[Custom Crankshaft Kinetic Display Mechanism]** – Engineered a fully custom crankshaft assembly in SolidWorks to drive three large steel cards in a synchronized fanning motion. Led a six-person team through design, procurement, and fabrication.
-- Link to Crankshaft/Fanning Cards folder - [Crankshaft Kinetic Display System](./CrankFan) 
+- Link to Crankshaft/Fanning Cards folder - [Crankshaft Kinetic Display System Project](./CrankFan) 
 
 - **[Multi Actuator Pneumatic & Electrical Systems Mechanism]** - Designed and led the implementation of a multi-actuator pneumatic system featuring synchronized 90° steel doors and a rotating crane mechanism, controlled via Arduino-based logic. Responsible for full SolidWorks modeling, structural layout, pneumatic integration, and control system development within an 11-member engineering team.
-- Link to Pneumatic/Electrical System folder - [Pneumatic System](./Pneumatics) 
+- Link to Pneumatic/Electrical System folder - [Pneumatic Systems Project](./Pneumatics) 
 
 ## Rover Project
 - **[Rover Competition Robot]**- Designed and manufactured a remote-controlled rover for a competitive robotics challenge. I led the full SolidWorks design of the rover chassis and scooping mechanism, which used L-shaped sliding arms to lift and transfer game pieces over a wall. The system was fabricated using laser-cut components and assembled with bearings and mechanical stabilization features. Competed head-to-head against other teams in a timed ball-transfer competition.
-- Link to Rover folder - [Rover Robot](./Rover) 
+- Link to Rover folder - [Rover Robot Project](./Rover) 
 
 ## Aircraft Design Project
 - **[AEX1 "Avalanche Express"- Strategic Bomber Concept]** – Semester-long aerospace design project to develop a next-generation heavy strategic bomber inspired by the C-5 Galaxy and structurally modeled from the Airbus A380 platform.
 
 As the sole CAD engineer on the team, I developed the complete aircraft 3D model while contributing to a 100+ page systems and performance report covering aerodynamics, structures, payload capability, and mission analysis.
-- Link to C5 Successor folder - 
+- Link to AEX1 Bomber folder - [AEX1 Bomber Project](./Bomber) 
 
 ---
 
