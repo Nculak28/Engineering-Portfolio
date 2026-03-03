@@ -19,8 +19,8 @@ Welcome! This portfolio showcases my UAV, mechanical design, rover, and aircraft
 - Link to Pneumatic/Electrical System folder - [Pneumatic System](./Pneumatics) 
 
 ## Rover Project
-- **[Rover Prototype]**  – Designed a custom rover, manufactured in chop shop, competed against others.
-Link to Rover folder - 
+- **[Rover Competition Robot]**- Designed and manufactured a remote-controlled rover for a competitive robotics challenge. I led the full SolidWorks design of the rover chassis and scooping mechanism, which used L-shaped sliding arms to lift and transfer game pieces over a wall. The system was fabricated using laser-cut components and assembled with bearings and mechanical stabilization features. Competed head-to-head against other teams in a timed ball-transfer competition.
+- Link to Rover folder - [Rover Robot](./Rover) 
 
 ## Aircraft Design Project
 - **[Milutary Aircraft Bomber Project]** – Worked with 12 others on a theoretical C- 5 Galaxy successor. I was tasked with the CAD for the project.
